@@ -1,0 +1,22 @@
+# Garmin Connect IQ build output
+bin/
+build/
+*.prg
+*.iq
+
+# Garmin developer keys and local credentials
+*.der
+*.key
+*.pem
+developer_key*
+secrets/
+.env
+.env*.local
+
+# Editor and local machine state
+.vscode/settings.json
+.DS_Store
+
+# Logs and caches
+*.log
+.cache/
