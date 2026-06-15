@@ -22,7 +22,7 @@ The goal is not to make a flashy phone-style screen. The goal is a small set of 
 - built for the fēnix 6X Pro Solar's 280 x 280 round Memory-In-Pixel display,
 - simple enough to test, wear, and improve.
 
-The first target is Don's Garmin fēnix 6X Pro Solar. Additional Garmin devices can be added later after the first face is stable.
+The first target is a Garmin fēnix 6X Pro Solar. Additional Garmin devices can be added later after the first face is stable.
 
 ---
 

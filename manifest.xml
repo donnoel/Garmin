@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<iq:manifest xmlns:iq="http://www.garmin.com/xml/connectiq" version="3">
+    <iq:application
+        id="797f82ef-87e1-4de2-980a-5efd801cb251"
+        type="watchface"
+        name="@Strings.AppName"
+        entry="GarminWatchFacesApp"
+        launcherIcon="@Drawables.LauncherIcon"
+        minApiLevel="3.4.0"
+        version="0.0.1">
+        <iq:products>
+            <iq:product id="fenix6xpro"/>
+        </iq:products>
+        <iq:permissions/>
+        <iq:languages>
+            <iq:language>eng</iq:language>
+        </iq:languages>
+        <iq:barrels/>
+    </iq:application>
+</iq:manifest>
