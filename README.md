@@ -167,7 +167,7 @@ Future watch faces should add permissions only when a specific feature requires 
 
 ## Credits
 
-Built with care by **Don Noel** and AI collaboration.
+Built with care by Don Noel and Codex collaboration.
 
 ---
 
